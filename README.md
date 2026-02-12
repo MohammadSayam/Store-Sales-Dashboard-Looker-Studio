@@ -54,17 +54,8 @@ The dashboard helps in identifying sales trends, top-performing states, and cust
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
 
-Example:
 ![Dashboard Preview](Store_Sales_Dashboard.jpg)
-
----
-
-## How to Use
-1. Open the dashboard link (if shared).
-2. Use the **Region filter** to explore sales across different regions.
-3. Interact with charts to view detailed insights.
 
 ---
 
