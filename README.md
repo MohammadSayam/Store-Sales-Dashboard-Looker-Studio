@@ -57,7 +57,7 @@ The dashboard helps in identifying sales trends, top-performing states, and cust
 (Add your dashboard screenshot here)
 
 Example:
-![Dashboard Preview](Store_Sales_Dashboard.png)
+![Dashboard Preview](Store_Sales_Dashboard.jpg)
 
 ---
 
